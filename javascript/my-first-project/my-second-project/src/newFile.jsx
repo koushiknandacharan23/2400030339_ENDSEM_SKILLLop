@@ -1,4 +1,0 @@
-({
-  ...prevData,
-  [name]: value
-});
